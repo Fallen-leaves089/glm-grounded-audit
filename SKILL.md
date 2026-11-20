@@ -4,7 +4,7 @@ description: 面向已有软件项目的证据审计与交付验收，专为 ZCo
 when_to_use: 当用户要求项目体检、上线前检查、交接审计、维护审查、真实回归、P0-P3 问题清单或交付验收时使用。
 license: Apache-2.0
 metadata:
-  version: "0.1.0"
+  version: "0.1.1"
   stage: single-host-zcode
   memory-format: six-field-markdown
   short-description: "证据优先的项目健康审计"
